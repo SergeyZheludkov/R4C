@@ -41,6 +41,7 @@ INSTALLED_APPS = [
     'orders',
     'robots',
     'api.apps.ApiConfig',
+    'robots_table.apps.RobotsTableConfig',
 ]
 
 MIDDLEWARE = [
